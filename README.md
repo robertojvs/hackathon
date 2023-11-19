@@ -1,2 +1,2 @@
-# hackathon
+# People_First
 Peoplefirst EthIstanbul
